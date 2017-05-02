@@ -21,3 +21,13 @@ Fill out liking_results.md.
 ### Due date
 
 Wednesday 5/10 11:59pm
+
+### Submission
+
+Email me (proflevitan@gmail.com)
+
+* The two categories of data (like/dislike, close/stranger, etc.)
+* Feature(s) examined
+* Similarity measure(s)
+* Featurized data (as csv)
+* IPython notebook or python script for loading features and calculating similarity measures and differences
