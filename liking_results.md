@@ -4,8 +4,33 @@ I suppose the data best fits under close/stranger. My assumption is that I've gr
 
 The data was formatted in html over multiple files. Each file represented a single day of conversation. Each had a header, a bunch of lines (see example below), and a footer.
 
-Example line:
-<font color="#16569E"><font size="2">(4:49:21 PM)</font> <b>Rob:</b></font> taco bell<br/>
+Example line(s):
+<font color="#16569E"><font size="2">(7:42:11 PM)</font> <b>Rob:</b></font> :(<br/>
+<font color="#16569E"><font size="2">(7:42:15 PM)</font> <b>Rob:</b></font> im just picking a random value<br/>
+<font color="#A82F2F"><font size="2">(7:42:16 PM)</font> <b>Patrick:</b></font> why<br/>
+<font color="#16569E"><font size="2">(7:42:20 PM)</font> <b>Rob:</b></font> out of possiblePlaces<br/>
+<font color="#A82F2F"><font size="2">(7:42:28 PM)</font> <b>Patrick:</b></font> whats ConsonantFeaturesContour<br/>
+<font color="#16569E"><font size="2">(7:42:32 PM)</font> <b>Rob:</b></font> uh<br/>
+<font color="#16569E"><font size="2">(7:42:34 PM)</font> <b>Rob:</b></font> a type<br/>
+<font color="#16569E"><font size="2">(7:42:40 PM)</font> <b>Rob:</b></font> :O<br/>
+<font color="#A82F2F"><font size="2">(7:42:50 PM)</font> <b>Patrick:</b></font> I dont get it<br/>
+<font color="#16569E"><font size="2">(7:42:50 PM)</font> <b>Rob:</b></font> iuno why it expects that<br/>
+<font color="#A82F2F"><font size="2">(7:42:57 PM)</font> <b>Patrick:</b></font> why isn&apos;t it<br/>
+<font color="#A82F2F"><font size="2">(7:43:01 PM)</font> <b>Patrick:</b></font> RVar ConsonantFeaturesContour<br/>
+<font color="#A82F2F"><font size="2">(7:43:02 PM)</font> <b>Patrick:</b></font> or something<br/>
+<font color="#16569E"><font size="2">(7:43:09 PM)</font> <b>Rob:</b></font> uh<br/>
+<font color="#16569E"><font size="2">(7:43:35 PM)</font> <b>Rob:</b></font> mebe<br/>
+<font color="#A82F2F"><font size="2">(7:43:54 PM)</font> <b>Patrick:</b></font> also whats choice<br/>
+<font color="#16569E"><font size="2">(7:44:02 PM)</font> <b>Rob:</b></font> picks random<br/>
+<font color="#16569E"><font size="2">(7:44:04 PM)</font> <b>Rob:</b></font> thing<br/>
+<font color="#16569E"><font size="2">(7:44:06 PM)</font> <b>Rob:</b></font> from list<br/>
+<font color="#16569E"><font size="2">(7:44:20 PM)</font> <b>Rob:</b></font> hm<br/>
+<font color="#16569E"><font size="2">(7:44:21 PM)</font> <b>Rob:</b></font> RvAr<br/>
+<font color="#16569E"><font size="2">(7:44:26 PM)</font> <b>Rob:</b></font> fixed it<br/>
+<font color="#16569E"><font size="2">(7:44:28 PM)</font> <b>Rob:</b></font> good work<br/>
+<font color="#16569E"><font size="2">(7:44:29 PM)</font> <b>Rob:</b></font> :O<br/>
+<font color="#A82F2F"><font size="2">(7:44:42 PM)</font> <b>Patrick:</b></font> lel<br/>
+
 
 The data set contains 224,728 lines of messages.
 
