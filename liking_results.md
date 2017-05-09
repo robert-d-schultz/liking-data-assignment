@@ -5,6 +5,7 @@ I suppose the data best fits under close/stranger. My assumption is that I've gr
 The data was formatted in html over multiple files. Each file represented a single day of conversation. Each had a header, a bunch of lines (see example below), and a footer.
 
 Example line(s):
+```
 <font color="#16569E"><font size="2">(7:42:11 PM)</font> <b>Rob:</b></font> :(<br/>
 <font color="#16569E"><font size="2">(7:42:15 PM)</font> <b>Rob:</b></font> im just picking a random value<br/>
 <font color="#A82F2F"><font size="2">(7:42:16 PM)</font> <b>Patrick:</b></font> why<br/>
@@ -30,7 +31,7 @@ Example line(s):
 <font color="#16569E"><font size="2">(7:44:28 PM)</font> <b>Rob:</b></font> good work<br/>
 <font color="#16569E"><font size="2">(7:44:29 PM)</font> <b>Rob:</b></font> :O<br/>
 <font color="#A82F2F"><font size="2">(7:44:42 PM)</font> <b>Patrick:</b></font> lel<br/>
-
+```
 
 The data set contains 224,728 lines of messages.
 
@@ -61,6 +62,7 @@ x is seconds from 1 Jan 2014
 This is a positively sloped line. Predicted cosine similarity for Feb 2014 is 0.4059 and 0.4187 for May 2017. So the conclusion I draw from that is that we talk about more similar things today than they did 3 years ago. Conformity is shown to be a consequence of attraction (Byrne 1973), therefore we have grown closer in the past 3 years.
 
 A plot of the cosine similarity between consecutive turns over time, as well as the line's equation can be seen in Figure 1.
+![alt text](https://github.com/robert-d-schultz/liking-data-assignment/blob/master/figure_1.png "A plot of the cosine similarity between consecutive turns over time")
 
 ### Future work
 I'm pretty sure I have IRC logs that go back to 2012 on a hard drive at my parent's house. An analysis of that on top of the data analyzed here would be interesting. More data is always good.
