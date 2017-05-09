@@ -1,5 +1,7 @@
 # other
 *.html
+*.p
+*.bin
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
